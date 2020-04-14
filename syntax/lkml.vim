@@ -94,6 +94,7 @@ syntax keyword lkmlModelKeyword persist_for
 syntax keyword lkmlModelKeyword relationship
 syntax keyword lkmlModelKeyword required_joins
 syntax keyword lkmlModelKeyword symmetric_aggregates
+syntax keyword lkmlModelKeyword test
 syntax keyword lkmlModelKeyword type
 syntax keyword lkmlModelKeyword unless
 syntax keyword lkmlModelKeyword value
