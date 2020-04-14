@@ -74,12 +74,15 @@ highlight link lkmlViewKeyword Keyword
 syntax keyword lkmlModelKeyword access_filter_fields
 syntax keyword lkmlModelKeyword always_filter
 syntax keyword lkmlModelKeyword always_join
+syntax keyword lkmlModelKeyword assert
 syntax keyword lkmlModelKeyword cancel_grouping_fields
 syntax keyword lkmlModelKeyword case_sensitive
+syntax keyword lkmlModelKeyword column
 syntax keyword lkmlModelKeyword conditionally_filter
 syntax keyword lkmlModelKeyword connection
 syntax keyword lkmlModelKeyword description
 syntax keyword lkmlModelKeyword explore
+syntax keyword lkmlModelKeyword explore_source
 syntax keyword lkmlModelKeyword field
 syntax keyword lkmlModelKeyword fields
 syntax keyword lkmlModelKeyword filters
