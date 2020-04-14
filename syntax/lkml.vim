@@ -83,6 +83,7 @@ syntax keyword lkmlModelKeyword connection
 syntax keyword lkmlModelKeyword description
 syntax keyword lkmlModelKeyword explore
 syntax keyword lkmlModelKeyword explore_source
+syntax keyword lkmlModelKeyword expression
 syntax keyword lkmlModelKeyword field
 syntax keyword lkmlModelKeyword fields
 syntax keyword lkmlModelKeyword filters
